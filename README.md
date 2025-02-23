@@ -1,4 +1,4 @@
-# Bunty AI Assistant 🎙️🤖
+# SARA AI Assistant 🎙️🤖
 
 Bunty is a Python-based AI voice assistant capable of recognizing speech, searching things on wikipedia, opening websites, playing music, and running a mini Snake-Water-Gun game.
 
